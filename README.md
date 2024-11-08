@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
