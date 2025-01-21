@@ -6,19 +6,15 @@ class Solution:
             if total == target:
                 res.append(cur.copy())
                 return
-            if i>= len(candidates) or total> target:
+            
+            if i >= len(candidates) or total > target:
                 return
-
-            #include cur combination of i
+            
+            #include candidates[i]:
             cur.append(candidates[i])
             dfs(i, cur, total + candidates[i])
-
-            #do not include any instance of i
             cur.pop()
             dfs(i+1, cur, total)
-        
+
         dfs(0, [], 0)
-
         return res
-
-        
