@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1127-last-stone-weight) |
 ## Backtracking
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1127-last-stone-weight) |
@@ -109,10 +112,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
