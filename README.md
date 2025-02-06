@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 ## String
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
