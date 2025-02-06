@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 ## Graph
