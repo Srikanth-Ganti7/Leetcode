@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0217-contains-duplicate) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -237,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
