@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0792-binary-search) |
