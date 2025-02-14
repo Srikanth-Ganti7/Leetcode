@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0792-binary-search) |
