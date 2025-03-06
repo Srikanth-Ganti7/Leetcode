@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
+| [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
