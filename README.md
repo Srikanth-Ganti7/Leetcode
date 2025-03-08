@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1170-shortest-common-supersequence](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Design
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
 | ------- |
