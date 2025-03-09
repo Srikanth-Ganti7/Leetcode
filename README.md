@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
