@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1127-last-stone-weight) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
