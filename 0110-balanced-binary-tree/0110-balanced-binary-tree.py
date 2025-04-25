@@ -11,22 +11,23 @@ class Solution:
             if not root:
                 return 0
             
-            return 1 + max(Height(root.left),Height(root.right))
-
-        if not root:
-            return True
+            return 1 + max(Height(root.left), Height(root.right))
         
-        left = Height(root.left)
-        right = Height(root.right)
+        def dfs(root):
+            if not root:
+                return True
+            
+            left = Height(root.left)
+            right = Height(root.right)
 
-        if abs(left - right) > 1:
-            return False
-        return self.isBalanced(root.left) and self.isBalanced(root.right)
+            if abs(left - right) > 1:
+                return False
+            
+            return dfs(root.left) and dfs(root.right)
+        
+        return dfs(root)
         
         
 
-
-
-        
 
         
