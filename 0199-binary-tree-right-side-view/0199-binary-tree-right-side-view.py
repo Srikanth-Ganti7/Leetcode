@@ -13,10 +13,11 @@ class Solution:
         q.append(root)
 
         while q:
+            # level = []
+            qLen = len(q)
             rightside = None
-            qlen = len(q)
 
-            for i in range(qlen):
+            for i in range(qLen):
                 node = q.popleft()
 
                 if node:
