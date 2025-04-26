@@ -13,10 +13,10 @@ class Solution:
             if not node:
                 return
             
-            res.append(node.val)
             dfs(node.left)
+            res.append(node.val)
             dfs(node.right)
             return res
         
-        arr = sorted(dfs(root))
-        return arr[k-1]
+        dfs(root)
+        return res[k-1]
