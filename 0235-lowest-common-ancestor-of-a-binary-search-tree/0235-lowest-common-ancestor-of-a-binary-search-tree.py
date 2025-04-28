@@ -11,14 +11,16 @@ class Solution:
         cur = root
 
         while cur:
-            if p.val < cur.val and q.val < cur.val:
+
+            if not p and not q:
+                return
+            
+            if (p.val < cur.val and q.val < cur.val):
                 cur = cur.left
             
-            elif p.val > cur.val and q.val> cur.val:
+            elif (p.val > cur.val and q.val > cur.val ):
                 cur = cur.right
             
             else:
                 return cur
-        
-
         
