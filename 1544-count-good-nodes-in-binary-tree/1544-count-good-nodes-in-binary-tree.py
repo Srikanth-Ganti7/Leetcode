@@ -18,7 +18,11 @@ class Solution:
             maxVal = max(maxVal, node.val)
             res += dfs(node.left, maxVal)
             res += dfs(node.right, maxVal)
+
             return res
-        
         return dfs(root, root.val)
+            
+
+
+
         
