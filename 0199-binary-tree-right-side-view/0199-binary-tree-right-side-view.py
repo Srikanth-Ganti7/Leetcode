@@ -13,13 +13,12 @@ class Solution:
         q.append(root)
 
         while q:
-            # level = []
-            qLen = len(q)
+            qlen = len(q)
+            
             rightside = None
 
-            for i in range(qLen):
-                node = q.popleft()
-
+            for i in range(qlen):
+                node = q.popleft()             
                 if node:
                     rightside = node
                     q.append(node.left)
@@ -29,4 +28,6 @@ class Solution:
                 res.append(rightside.val)
         
         return res
+
+                
         
