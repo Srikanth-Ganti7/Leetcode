@@ -1,6 +1,5 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-
         res = []
 
         def dfs(i, cur, total):
@@ -19,5 +18,4 @@ class Solution:
         
         dfs(0, [], 0)
         return res
-        
         
