@@ -8,13 +8,12 @@ class Solution:
                 res.append(cur.copy())
                 return
             
-            #include nums[i]
             cur.append(nums[i])
             dfs(i+1)
 
-            #not include
             cur.pop()
             dfs(i+1)
+        
         dfs(0)
         return res
         
