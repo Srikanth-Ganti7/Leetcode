@@ -1,5 +1,6 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
+
         res = []
         part = []
 
@@ -13,13 +14,17 @@ class Solution:
                     part.append(s[i:j+1])
                     dfs(j+1)
                     part.pop()
+        
         dfs(0)
         return res
 
     def isPalin(self, s, l, r):
-        while l<r:
+        while l < r:
             if s[l] != s[r]:
                 return False
-            l , r = l+1, r-1
+            
+            l, r = l+1, r-1
         return True
+
+
         
