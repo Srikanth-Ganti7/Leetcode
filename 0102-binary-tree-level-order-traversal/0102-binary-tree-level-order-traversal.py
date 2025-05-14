@@ -23,7 +23,6 @@ class Solution:
                     levels.append(node.val)
                     q.append(node.left)
                     q.append(node.right)
-                
             if levels:
                 res.append(levels)
         
