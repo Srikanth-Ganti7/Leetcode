@@ -14,7 +14,7 @@ class Solution:
         def dfs(node):
             if node in oldToNew:
                 return oldToNew[node]
-
+            
             copy = Node(node.val)
             oldToNew[node] = copy
 
@@ -24,6 +24,6 @@ class Solution:
         
         if node:
             return dfs(node)
-        return None
-            
+        else:
+            return None
         
