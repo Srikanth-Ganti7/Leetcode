@@ -6,14 +6,14 @@ class Solution:
 
         for cur, pre in prerequisites:
             preMap[cur].append(pre)
-
+        
         def dfs(cur):
             if cur in visit:
                 return False
-
+            
             if preMap[cur] == []:
                 return True
-
+            
             visit.add(cur)
             for pre in preMap[cur]:
                 if not dfs(pre):
@@ -21,8 +21,13 @@ class Solution:
             visit.remove(cur)
             preMap[cur] = []
             return True
-
-        for cur,pre in prerequisites:
+        
+        for cur, pre in prerequisites:
             if not dfs(cur):
                 return False
-        return True        
+        
+        return True
+
+
+
+        
