@@ -9,22 +9,21 @@ class Solution:
 
         res = []
 
-        q = collections.deque()
-        q.append(root)
+        def bfs(root):
+            q = collections.deque()
+            q.append(root)
 
-        while q:
-            qLen = len(q)
-            levels = []
-
-            for i in range(qLen):
-                node = q.popleft()
-
-                if node:
-                    levels.append(node.val)
-                    q.append(node.left)
-                    q.append(node.right)
-            if levels:
-                res.append(levels)
+            while q:
+                levels = []
+                for i in range(len(q)):
+                    node = q.popleft()
+                    if node:
+                        levels.append(node.val)
+                        q.append(node.left)
+                        q.append(node.right)
+                if levels:
+                    res.append(levels)
         
+        bfs(root)
         return res
         
