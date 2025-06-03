@@ -1,18 +1,21 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        # if sorted(s) == sorted(t):
+        #     return True
+        # return False
+        # nlogn
 
-        if len(s) != len(t):
-            return False
+        count1 = [0]*26
+        count2 = [0]*26
 
-        HmapofS = {}
-        HmapofT = {}
+        for char in s:
+            count1[(ord(char) - ord('a'))] += 1
 
-        for i in range(len(s)):
-            HmapofS[s[i]] = 1 + HmapofS.get(s[i], 0)
-            HmapofT[t[i]] = 1 + HmapofT.get(t[i], 0)
+        for char in t:
+            count2[(ord(char) - ord('a'))] += 1
         
-        return HmapofS == HmapofT
-
-
-
+        if count1 == count2:
+            return True
+        else:
+            return False
         
