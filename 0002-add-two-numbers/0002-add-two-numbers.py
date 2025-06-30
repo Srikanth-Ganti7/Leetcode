@@ -5,53 +5,40 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-
-
-        dummy = ListNode
-        
         temp1 = l1
-        num1 = 0
-        count = 0
+        n1 = 0
+        firstSum = 0
+
         while temp1:
-            num1 = (num1) + (temp1.val*(10**count))
+            unit = temp1.val
+            firstSum = unit*(10**n1) + firstSum
+            n1 += 1
             temp1 = temp1.next
-            count += 1
-        print(num1)
-
-        temp2 = l2
-        num2 = 0
-        count2 = 0
-        while temp2:
-            num2 = (num2) + (temp2.val*(10**count2))
-            temp2 = temp2.next
-            count2+=1
         
-        print(num2)
+        temp2 = l2
+        n2 = 0
+        secSum = 0
 
-        final_num = num1+num2
-        print(final_num)
+        while temp2:
+            unit2 = temp2.val
+            secSum = unit2*(10**n2) + secSum
+            n2 += 1
+            temp2 = temp2.next
+        
+        finalSum = firstSum + secSum
 
-        if final_num == 0:
+        if finalSum == 0:
             return ListNode(0)
 
-        tail = dummy
-        while final_num:
-            n = final_num % 10
-            final_num = final_num // 10
-            tail.next = ListNode(n)
-            tail = tail.next
+        dummy = ListNode()
+        cur = dummy
+
+        while finalSum != 0:
+            rem = finalSum % 10
+            cur.next = ListNode(rem)
+            cur = cur.next
+            finalSum = finalSum // 10
         
         return dummy.next
-
-
-
-
-
-
-
-
-
-
-         
 
         
