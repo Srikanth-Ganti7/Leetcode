@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
