@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
