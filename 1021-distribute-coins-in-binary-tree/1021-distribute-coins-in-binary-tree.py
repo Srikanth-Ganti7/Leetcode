@@ -6,8 +6,9 @@
 #         self.right = right
 class Solution:
     def distributeCoins(self, root: Optional[TreeNode]) -> int:
+
         self.moves = 0
-        
+
         def dfs(node):
             if not node:
                 return 0
@@ -22,5 +23,4 @@ class Solution:
         dfs(root)
 
         return self.moves 
-
         
