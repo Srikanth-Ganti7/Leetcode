@@ -1,23 +1,24 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        leftPointer = 0
-        rightPointer = len(height) - 1
+        left = 0
+        right = len(height) - 1
 
-        leftMax = height[leftPointer]
-        rightMax = height[rightPointer]
+        leftMax = height[left]
+        rightMax = height[right]
 
         res = 0
 
-        while leftPointer < rightPointer:
+        while left < right:
             if leftMax < rightMax:
-                leftPointer += 1
-                leftMax = max(leftMax, height[leftPointer])
-                res += leftMax - height[leftPointer]
-            
+                left += 1
+                leftMax = max(leftMax, height[left])
+                res += leftMax - height[left]
+
             else:
-                rightPointer -= 1
-                rightMax = max(rightMax, height[rightPointer])
-                res += rightMax - height[rightPointer]
+                right -= 1
+                rightMax = max(rightMax, height[right])
+                res += rightMax - height[right]
         
         return res
+
         
