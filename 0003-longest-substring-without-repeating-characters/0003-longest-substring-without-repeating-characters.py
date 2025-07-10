@@ -1,10 +1,10 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
 
-        lastSeen = {}
-
         start = 0
         maxLen = 0
+
+        lastSeen = {}
 
         for i, char in enumerate(s):
             if char in lastSeen and lastSeen[char] >= start:
@@ -15,4 +15,6 @@ class Solution:
             maxLen = max(maxLen, i - start + 1)
         
         return maxLen
+
+
         
