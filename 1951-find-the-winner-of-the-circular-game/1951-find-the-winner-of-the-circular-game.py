@@ -8,5 +8,4 @@ class Solution:
             players.pop(idx)
         
         return players[0]
-
         
