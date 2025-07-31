@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
