@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Design
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
