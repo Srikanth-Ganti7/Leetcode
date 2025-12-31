@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0837-most-common-word) |
+| [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
