@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1390-four-divisors](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1390-four-divisors) |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1390-four-divisors](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1390-four-divisors) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
