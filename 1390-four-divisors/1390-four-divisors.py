@@ -7,7 +7,7 @@ class Solution:
             fourSum = 0
             count = 0
             i = 1    
-            while i*i <= num:
+            for i in range(1, int(num ** 0.5) + 1):
                 if num % i == 0:
                     other = num // i
                     fourSum += i
@@ -18,7 +18,7 @@ class Solution:
                         count += 1
                     if count > 4:
                         break
-                i += 1
+                # i += 1
             if count == 4:
                 total += fourSum
             
