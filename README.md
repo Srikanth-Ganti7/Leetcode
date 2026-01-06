@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
