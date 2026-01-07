@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
