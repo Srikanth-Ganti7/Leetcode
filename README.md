@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Tree
