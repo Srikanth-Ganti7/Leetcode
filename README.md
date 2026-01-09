@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
