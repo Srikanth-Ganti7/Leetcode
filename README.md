@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2690-house-robber-iv) |
 | [3453-separate-squares-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -679,4 +681,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0509-fibonacci-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
