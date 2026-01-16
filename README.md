@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Doubly-Linked List
 |  |
