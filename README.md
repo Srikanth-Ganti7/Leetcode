@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Sorting
 |  |
 | ------- |
