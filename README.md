@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
+| [1895-largest-magic-square](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1895-largest-magic-square](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
