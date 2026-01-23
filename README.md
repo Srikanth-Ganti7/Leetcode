@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## String
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Depth-First Search
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -703,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -719,4 +725,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
