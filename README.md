@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2681-put-marbles-in-bags](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0768-partition-labels) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
