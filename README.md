@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-maximum-matrix-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
