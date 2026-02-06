@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Quickselect
 |  |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Queue
 |  |
 | ------- |
