@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1170-shortest-common-supersequence](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0883-car-fleet) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Breadth-First Search
 |  |
