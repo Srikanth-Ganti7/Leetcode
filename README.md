@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3713-longest-balanced-substring-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
