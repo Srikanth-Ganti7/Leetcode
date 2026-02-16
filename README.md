@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0091-decode-ways) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
