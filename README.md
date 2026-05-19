@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -799,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -806,4 +812,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
