@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0567-permutation-in-string) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0883-car-fleet) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0509-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Number Theory
