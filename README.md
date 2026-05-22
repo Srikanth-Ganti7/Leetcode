@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0876-hand-of-straights](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
