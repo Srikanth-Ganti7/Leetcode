@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1127-last-stone-weight) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -820,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
