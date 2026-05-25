@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1170-shortest-common-supersequence](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1127-last-stone-weight) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -837,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
