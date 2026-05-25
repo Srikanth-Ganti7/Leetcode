@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-greatest-sum-divisible-by-three](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1656-count-good-triplets](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1656-count-good-triplets) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1895-largest-magic-square) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -852,8 +854,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
