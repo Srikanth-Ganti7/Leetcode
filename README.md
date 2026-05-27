@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Simulation
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0213-house-robber-ii) |
@@ -835,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Srikanth-Ganti7/Leetcode/tree/master/0509-fibonacci-number) |
 ## Segment Tree
 |  |
